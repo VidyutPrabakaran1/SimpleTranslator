@@ -8,6 +8,11 @@ Note : Requires Working Internet Connection
 
 #################################################
 
+A simple and easy to use Translator program
+for your Windows PC.
+
+#################################################
+
 API's Used :
 
 1) Google Translate Ajax by Google
